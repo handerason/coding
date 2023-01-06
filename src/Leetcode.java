@@ -4,6 +4,7 @@ import java.util.function.IntPredicate;
 import java.util.stream.IntStream;
 
 class Leetcode {
+//    adasda
     public static void main(String[] args) {
         Leetcode leetcode = new Leetcode();
 //        [1,2,6,3,4,5,6]
