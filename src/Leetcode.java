@@ -1,5 +1,6 @@
 import java.util.Arrays;
 import java.util.LinkedList;
+import java.util.Queue;
 import java.util.function.IntPredicate;
 import java.util.stream.IntStream;
 
@@ -111,4 +112,9 @@ class Leetcode {
             this.next = next;
         }
     }
+
+    /**
+     * 队列：最近的请求次数
+     */
+
 }
